@@ -2,6 +2,35 @@
 
 /* a CSS class that can be applied to any HTML element */
 
-.hidden {
-	display: none;
+
+.hidden { display: none; }
+
+html, body { height: 100% }
+
+body { 
+  font-family: sans-serif;
+  background-color: black;
+  color: white;
+  background-image: url('../images/denim.png');
 }
+
+h1 {
+    color: red;
+}
+
+/* style the header */
+
+header {
+    background-color: white;
+    position: sticky;
+    top: 0;
+    
+  }
+
+  /* style the footer */
+
+footer{
+    background-color: white;
+    color: white;
+  }
+  
