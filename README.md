@@ -25,6 +25,7 @@ TODO: Write history
 ## Contributors
 
 Tiago Witt
+
 Rodrigo Rocha de Freitas
 
 ## License
