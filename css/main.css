@@ -1,0 +1,7 @@
+@charset "UTF-8";
+
+/* a CSS class that can be applied to any HTML element */
+
+.hidden {
+	display: none;
+}
